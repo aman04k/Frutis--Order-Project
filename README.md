@@ -63,8 +63,4 @@ Fruits-Project/
 </code>
 </pre>
 
-<h2>🤝 Contribution</h2>
-<p>Feel free to open an issue or submit a pull request if you'd like to contribute to the project.</p>
 
-<h2>📜 License</h2>
-<p>This project is licensed under the MIT License - see the <a href="LICENSE">LICENSE</a> file for details.</p>
