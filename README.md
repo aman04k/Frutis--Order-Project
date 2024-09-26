@@ -15,7 +15,7 @@
 <ul>
   <li><strong>Frontend:</strong> HTML, CSS, JavaScript, React, Bootstrap</li>
   <li><strong>Backend:</strong> Node.js, Express.js (if applicable)</li>
-  <li><strong>Database:</strong> MongoDB/MySQL (if applicable)</li>
+  <li><strong>Database:</strong> MongoDB</li>
   <li><strong>Build Tool:</strong> Vite (or Webpack, if applicable)</li>
 </ul>
 
