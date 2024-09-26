@@ -1,4 +1,4 @@
- <h1>🍇 Fruits Project (MERN Stack) 🍎</h1>
+ <h1>🍇 Fruits-Order Project (MERN Stack) 🍎</h1>
 
 <h2>📋 Overview</h2>
 <p>A full MERN (MongoDB, Express.js, React.js, Node.js) stack project to display a collection of fruits, showcasing their details and features. This project demonstrates CRUD operations along with a simple UI for managing and viewing fruits.</p>
